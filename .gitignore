@@ -1,0 +1,18 @@
+# Hugo build output
+/public/
+
+# Hugo cache
+/resources/_gen/
+/hugo_stats.json
+
+# Node.js (in case your theme uses npm)
+node_modules/
+
+# OS / Editor files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
+# Optional: If using Netlify
+.netlify/
