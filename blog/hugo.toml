@@ -1,0 +1,23 @@
+baseURL = 'http://localhost:1313/'
+languageCode = 'en-us'
+title = 'Invest with Alan'
+theme = 'PaperMod'
+
+[params]
+  homeInfoParams = { Title = "Invest with Alan", Content = "Not just investing, value creation foundations" }
+
+[menu]
+[[menu.main]]
+  name = "Blog"
+  url = "/posts/"
+  weight = 1
+
+[[menu.main]]
+  name = "Dictionary"
+  url = "/dictionary/"
+  weight = 2
+
+[[menu.main]]
+  name = "Dashboard"
+  url = "https://app.investwithalan.ai"
+  weight = 3
