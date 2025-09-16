@@ -1,12 +1,25 @@
 baseURL = "https://investingwithmyfeet.com/"
+# Make links relative, so they still work if baseURL isn't perfect
+relativeURLs = true
 languageCode = 'en-us'
-title = 'Invest with Alan'
+title = 'Investing with My Feet Journey'
 theme = 'PaperMod'
 
+[pagination]
+  pagerSize = 10
+  
+# Silence warnings if you don't use tags/categories yet
+disableKinds = ["taxonomy", "term"]
+
 [params]
-  homeInfoParams = { Title = "Invest with Alan", Content = "Not just investing, value creation foundations" }
+  defaultTheme = "auto"
+
+[params.homeInfoParams]
+  Title = 'Facts and Hacks for Begginer Investors'
+  Content = "Not just investing, value creation foundations"
 
 [menu]
+
 [[menu.main]]
   name = "Blog"
   url = "/posts/"
@@ -21,3 +34,5 @@ theme = 'PaperMod'
   name = "Dashboard"
   url = "https://app.investwithalan.ai"
   weight = 3
+
+  

@@ -1,19 +1,21 @@
 # investing-blog
 Investing blog for begginers
 
+## Step 1: Switch to Main dir
+`blog` is the main dir
+`cd blog`
 
-## Running Hugo Server in Codespaces 
-### Step 1: find codespaces port url 
- 
- `gp url 1313`
+## Step 2: Update git submodules
+`git submodule update --init --recursive`
 
-### Step 2: Start Hugo with That URL 
+## Step 3:  Running Hugo Server in Codespaces 
+### In One Command available also in `dev.sh`
 
-`hugo server --bind=0.0.0.0 --baseURL=<url>`
+`export DEV_BASE="https://${CODESPACE_NAME}-1313.${GITHUB_CODESPACES_PORT_FORWARDING_DOMAIN}/"
+hugo server -D --bind 0.0.0.0 --baseURL "$DEV_BASE" --appendPort=false`
 
 
 
-### In One Command 
 
-`hugo server --bind=0.0.0.0 --baseURL=$(gp url 1313)`
+
 
