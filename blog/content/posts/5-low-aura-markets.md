@@ -5,7 +5,7 @@ title = 'Low Aura Markets'
 +++
 
 
-### Unbelievable Market Stories  
+### Unbelievable Market Glitches and Bugs   
 
 ### Day 5  
 
