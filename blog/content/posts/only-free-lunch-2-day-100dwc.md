@@ -21,18 +21,3 @@ The opposite is also true, but there is no benefit in exacerbating the downside 
 ~Ãdd a diagram showing the difference between a concentraded and a diversified portfolio~~
 
 
-You need to understand average: Show how different investments perform over time 
-
-How much is a lot of return?
-How much is too little return?
-Returns are really tricky: measuring in different time frames and with different risk and with changing time horizons 
-
-
-The 50% return  investment: Stocks that have gone 50% or more in one year or less but they have other dark side.
-
-Next day: Anomalies in the market, markets are inefficient
-Next day:Active vs pasive investment 
-Market bubbles: 2001, 2008, AI bubble 
-Diversified investmen: Createa a Portfolio of Diversified stocks
-Psychological biases in investment
-Asset types:
