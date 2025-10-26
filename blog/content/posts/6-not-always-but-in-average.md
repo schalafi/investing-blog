@@ -46,6 +46,8 @@ How much is a lot of return?
 How much is too little return?
 Returns are really tricky: measuring in different time frames and with different risk and with changing time horizons 
 
+Living from your investments. Is thatrh even possible??w
+
 
 The 50% return  investment: Stocks that have gone 50% or more in one year or less but they have other dark side.
 
