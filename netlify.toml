@@ -1,7 +1,7 @@
 # netlify.toml
 [build]
   base = "blog"
-  publish = "blog/public"
+  publish = "public"
   command = "hugo --config hugo.prod.toml"
 
 [context.production.environment]
