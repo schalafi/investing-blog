@@ -1,6 +1,6 @@
 baseURL = "https://investingwithmyfeet.com/"
 # Make links relative, so they still work if baseURL isn't perfect
-relativeURLs = true
+relativeURLs = false
 languageCode = 'en-us'
 title = 'Investing with My Feet Journey'
 theme = 'PaperMod'
