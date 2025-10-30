@@ -1,0 +1,8 @@
+# netlify.toml
+[build]
+  base = "blog"
+  publish = "blog/public"
+  command = "hugo --config hugo.prod.toml"
+
+[context.production.environment]
+  HUGO_VERSION = "0.147.6"

@@ -15,6 +15,15 @@ Investing blog for begginers
 
 hugo server -D --bind 0.0.0.0 --baseURL "$DEV_BASE" --appendPort=false`
 
+### The same command but in a file
+In the directory `blog`
+Make it executable: 
+    `chmod +x ../dev.sh`
+    
+Run it:
+    `../dev.sh`
+
+
 # 100 Days of Writting Challenge
 
 - Write for the next 100 days at least 1 or 2 paragraphs 
