@@ -31,24 +31,4 @@ The moral of the story is that **-50% isn’t the same as a +50% return.**
 
 
 
-##50 is A Magical Number
 
-You are not over-performing the market. 
-
-You need to understand average: Show how different investments perform over time 
-
-How much is a lot of return?
-How much is too little return?
-Returns are really tricky: measuring in different time frames and with different risk and with changing time horizons 
-
-Living from your investments. Is thatrh even possible??w
-
-
-The 50% return  investment: Stocks that have gone 50% or more in one year or less but they have other dark side.
-
-Next day: Anomalies in the market, markets are inefficient
-Next day:Active vs pasive investment 
-Market bubbles: 2001, 2008, AI bubble 
-Diversified investmen: Createa a Portfolio of Diversified stocks
-Psychological biases in investment
-Asset types:
