@@ -1,7 +1,7 @@
 +++
 date = '2025-11-03T03:54:08Z'
 draft = true
-title = '12 Ai Bubble How to Survive'
+title = '13 Ai Bubble How to Survive'
 +++
 
 
@@ -27,7 +27,7 @@ Prepare your **mitigation risk** tools.
 
 Markets will keep operating and **probably** will recover completely.  
 
-Many strategies can help you mitigate risk in the case of a bubble.  
+Many swtrategies can help you mitigate risk in the case of a bubble.  
 
 Implement risk mitigation techniques as quickly and easily as you can.  
 Even this could be a **great** opportunity to invest if valuations correct in the coming months or years.  
